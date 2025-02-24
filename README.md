@@ -1,2 +1,3 @@
-# media
-Media files of the Cot project
+# cot-rs/media
+
+This repository contains media files used in the Cot project.
